@@ -36,6 +36,8 @@ libftprintf.a
 
 A null string is printed as `(null)`, while a null pointer is printed as `(nil)`.
 
+A trailing `%` without a conversion specifier causes `ft_printf()` to return `-1`.
+
 ## Project structure
 
 ```text

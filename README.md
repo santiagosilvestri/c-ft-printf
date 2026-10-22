@@ -220,7 +220,7 @@ int main(void)
 
 ### Use of AI
 
-AI tools were used as a learning and review assistant to discuss variadic arguments, and the structure and wording of this README.
+AI tools were used as a learning and review assistant to discuss variadic arguments, and the structure of this README.
 
 ## Author
 
